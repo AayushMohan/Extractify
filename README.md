@@ -42,20 +42,6 @@ The dataset consists of:
 - **entity_name:** Name of the product entity (e.g., "item_weight")
 - **entity_value:** Corresponding product entity value (e.g., "34 gram")
 
-## Installation
-
-To set up the project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/extractify.git
-   cd extractify
-   ```
-
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 
